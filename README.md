@@ -13,10 +13,10 @@ Pages created on other repos that are then set up with the Github Pages settings
 
 # Creating Github Pages Repos
 1. Create a repo like this one.  To do this
-  - Simply create a repo named \<github user name>.github.io
+   - Simply create a repo named \<github user name>.github.io
   
 2. Pages built on this repo will automatically work as described above
 3. To create other repos that publish as described above:
-  - create another repo
-  - in settings, enable Github pages for them (there is a github pages section under site settings)
-  - if you want a theme you can choose one there too
+   - create another repo
+   - in settings, enable Github pages for them (there is a github pages section under site settings)
+   - if you want a theme you can choose one there too
